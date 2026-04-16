@@ -1,7 +1,7 @@
-##5.搞清楚以下几个问题：
--a：ERC20/ERC721合约中的transferFrom接口如何使用
--b：ERC721中的授权接口跟ERC20有何不同
--c：ERC721合约中的safeTransfer等带safe前缀的接口提供了什么安全措施
+## 5.搞清楚以下几个问题：
+- a：ERC20/ERC721合约中的transferFrom接口如何使用
+- b：ERC721中的授权接口跟ERC20有何不同
+- c：ERC721合约中的safeTransfer等带safe前缀的接口提供了什么安全措施
 
 
 问题解答：
