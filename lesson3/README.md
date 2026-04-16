@@ -5,7 +5,9 @@
 
 
 问题解答：
+
 ERC20 同质化代币，ERC721非同质化代币
+
 a.
 1）ERC20/ERC721合约中的 transferFrom 接口的使用流程：需要调用者先授权给合约使用approve，再通过合约调用 transferFrom 转走代币，不同的是 ERC721 非同质化代币授权接口有两个approve和setApprovalForAll；
 2）合约调用 发送人的地址、接收人的地址， 不同点在于 ERC20 同质化代币 转的是代币数量 amount ，ERC721非同质化代币转的是tokenId唯一代币。
