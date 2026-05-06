@@ -14,7 +14,7 @@ Web3练习题
 
 #### homework01：
 [题目1答案转跳](https://github.com/Clc2024/Web3PracticeQuestions/blob/main/lesson1/homework01.md)
--#### homework02： 
+#### homework02： 
 [题目2答案转跳](https://github.com/Clc2024/Web3PracticeQuestions/blob/main/lesson1/homework02.md)
 
 ## lesson2 
